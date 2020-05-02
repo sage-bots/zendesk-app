@@ -1,23 +1,8 @@
 {
-  "name": "SageTalk",
-  "author": {
-    "name": "Tom Lev",
-    "email": "tom@sagetalk.io",
-    "url": "https://www.linkedin.com/in/tom-lev/"
-  },
   "app": {
     "name": "SageTalk",
     "short_description": "The one stop shop Chatbot",
     "long_description": "Automate Customer Service inquiries, Lead Generation, Increase conversions, collect NPS/CSAT data, with one easy to use tool!",
     "installation_instructions": "For Zendesk Chat\n\n 1. Create an agent in your Zendesk account for your chatbot. 2. Go to your chatbot on SageTalk, add your Zendesk subdomain and use your newly created Zendesk agent user 3. name and password the connect your chatbot with your Zendesk Chat Widget. 3. For full instructions, please email support@sagetalk.io.\nNever leave customers waiting again when they have questions or need help finding the right product.\n\nHave an AI chatbot as first-line support for your company\n\nMain benefits of the BotXO integration includes:\n\n - Q/A Automation\n- Flow automation- Live Agent handoff\n- CSAT/NPS Data Collection\n- Analytics\n- Easy to plugin using Templates\n- DialogFlow Integration\n- Multi-language support\nThe Conversational AI understands what your customers say and feel in more than 20 languages.\n\nIntegrated with native Zendesk products such as Chat, Support, Help Center Articles, Sunshine, etc.\nUse free text, buttons and product visuals for faster and rich, beautiful conversations.\nSeemless live handover between chatbot and agents.\nRoute customers to the relevant department.\nStart your free trial today: sagetalk.io/register.html\nHave questions? [Get In Touch](http://sagetalk.io)"
-  },
-  "location": {
-    "chat": {}
-  },
-  "defaultLocale": "en",
-  "gaID": "UA-110093464-3",
-  "singleInstall": true,
-  "marketingOnly": true,
-  "private": false,
-  "version": "1.0"
+  }
 }
